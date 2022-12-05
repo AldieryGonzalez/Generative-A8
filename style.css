@@ -39,11 +39,11 @@ button.active {
 video {
   margin-left: auto;
   margin-right: auto;
-  left: 0;
+  left: 3%;
   right: 0;
   top: 0;
   position: absolute;
-  clip-path: inset(0 3% 0 3%);
+  clip-path: inset(0 6.5% 0 0%);
   z-index: 40;
 }
 
